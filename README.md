@@ -4,8 +4,8 @@
 Objective: Determine the price drivers on house to find underpriced objects as investment oportunities.
 
 # Contents:
-## Set up
-## Data types and missings
-## Features 
-## Model
-## Results
+* Set up
+* Data types and missings
+* Features 
+* Model
+* Results
